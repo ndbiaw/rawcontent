@@ -20,9 +20,6 @@ sudo apt install --assume-yes --fix-broken
 wget https://media.codeweavers.com/pub/crossover/cxlinux/demo/crossover_20.0.4-1.deb
 sudo dpkg -i crossover_20.0.4-1.deb
 sudo apt install --assume-yes --fix-broken
-wget https://discord.com/api/download?platform=linux&format=deb
-sudo dpkg --install discord-0.0.13.deb
-sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y 
 sudo apt -y install obs-studio
 sudo apt -y install firefox
