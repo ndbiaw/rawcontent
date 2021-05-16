@@ -1,4 +1,4 @@
- ==UserScript==
+// ==UserScript==
 // @name        Discord Blocker
 // @match       https://discord.com/*
 // @downloadURL https://raw.githubusercontent.com/ndbiaw/rawcontent/main/discord-blocker.js
