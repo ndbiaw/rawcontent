@@ -1,0 +1,7099 @@
+{
+    "Aimbot": {
+        "AK-47": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "AUG": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "AWP": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "CZ75-Auto": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Default": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 60.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Desert Eagle": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": true
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 98.6
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Dual Berettas": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "FAMAS": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Five-SeveN": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "G3SG1": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Galil AR": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Glock-18": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Heavy": {
+            "AutoShoot": {
+                "value": true
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": true
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 15.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 50.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "StandaloneBacktrackTime": {
+                "value": 200.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Key": {
+            "key": 18,
+            "keymode": 0
+        },
+        "M249": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "M4A1-S": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "M4A4": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "MAC-10": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "MAG-7": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "MP5-SD": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "MP7": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "MP9": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Mode": {
+            "value": 2
+        },
+        "Negev": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Nova": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "P2000": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "P250": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "P90": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "PP-Bizon": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Pistol": {
+            "AutoShoot": {
+                "value": true
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": true
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 15.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 64.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 75.0
+            },
+            "ScaleHead": {
+                "value": 60.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "StandaloneBacktrackTime": {
+                "value": 200.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "R8 Revolver": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Rifle": {
+            "AutoShoot": {
+                "value": true
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": true
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 15.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 55.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 3
+            },
+            "ScaleBody": {
+                "value": 80.0
+            },
+            "ScaleHead": {
+                "value": 65.0
+            },
+            "ScalePitch": {
+                "value": 100.0
+            },
+            "ScaleYaw": {
+                "value": 100.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "StandaloneBacktrackTime": {
+                "value": 200.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "SCAR-20": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "SG 553": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "SMG": {
+            "AutoShoot": {
+                "value": true
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": true
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 15.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 1
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 100.0
+            },
+            "ScaleYaw": {
+                "value": 100.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "StandaloneBacktrackTime": {
+                "value": 200.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "SSG 08": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Sawed-Off": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Sniper": {
+            "AutoShoot": {
+                "value": true
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": true
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 15.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 80.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 100.0
+            },
+            "MinVisibleDamage": {
+                "value": 100.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": true
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 75.0
+            },
+            "ScaleHead": {
+                "value": 65.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 1
+            },
+            "StandaloneBacktrackTime": {
+                "value": 200.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Tec-9": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "UMP-45": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "USP-S": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "XM1014": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        },
+        "Zeus": {
+            "AutoShoot": {
+                "value": false
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "Autowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Enable": {
+                "value": false
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "FocusTarget": {
+                "value": false
+            },
+            "Fov": {
+                "value": 0.0
+            },
+            "Fov3d": {
+                "value": false
+            },
+            "FriendlyFire": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "HitboxPriority": {
+                "value": 0
+            },
+            "IgnoreJump": {
+                "value": false
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "LegitMinDamage": {
+                "value": 0.0
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "Multipoint": {
+                "value": false
+            },
+            "NoRecoil": {
+                "value": false
+            },
+            "NonSticky": {
+                "value": false
+            },
+            "OneBulletAim": {
+                "value": false
+            },
+            "OverTime": {
+                "value": 0.0
+            },
+            "RcsMode": {
+                "value": 0
+            },
+            "ScaleBody": {
+                "value": 0.0
+            },
+            "ScaleHead": {
+                "value": 0.0
+            },
+            "ScalePitch": {
+                "value": 0.0
+            },
+            "ScaleYaw": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            },
+            "SmoothMode": {
+                "value": 0
+            },
+            "StandaloneBacktrackTime": {
+                "value": 0.0
+            },
+            "TargetSwitchTime": {
+                "value": 0.0
+            },
+            "Time": {
+                "value": 0.0
+            }
+        }
+    },
+    "AntiAim": {
+        "Extras": {
+            "AntiAimIndicator": {
+                "colors": [
+                    [
+                        false,
+                        230,
+                        230,
+                        0,
+                        255
+                    ],
+                    [
+                        false,
+                        54,
+                        54,
+                        54,
+                        255
+                    ]
+                ],
+                "value": false
+            },
+            "FakelagOnPeak": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "ManualLeftKey": {
+                "key": 37,
+                "keymode": 0
+            },
+            "ManualRightKey": {
+                "key": 39,
+                "keymode": 0
+            }
+        },
+        "Fakelag": {
+            "InAir": {
+                "FakelagAmount": {
+                    "value": 0.0
+                },
+                "FakelagMode": {
+                    "key": 0,
+                    "keymode": 0,
+                    "value": 0
+                }
+            },
+            "Move": {
+                "FakelagAmount": {
+                    "value": 8.0
+                },
+                "FakelagMode": {
+                    "key": 0,
+                    "keymode": 0,
+                    "value": 1
+                }
+            },
+            "SlowWalk": {
+                "FakelagAmount": {
+                    "value": 0.0
+                },
+                "FakelagMode": {
+                    "key": 0,
+                    "keymode": 0,
+                    "value": 0
+                }
+            },
+            "Stand": {
+                "FakelagAmount": {
+                    "value": 0.0
+                },
+                "FakelagMode": {
+                    "key": 0,
+                    "keymode": 0,
+                    "value": 0
+                }
+            }
+        },
+        "General": {
+            "InAir": {
+                "DesyncAngle": {
+                    "value": 0.0
+                },
+                "Mode": {
+                    "value": 0
+                }
+            },
+            "Move": {
+                "DesyncAngle": {
+                    "value": 0.0
+                },
+                "Mode": {
+                    "value": 0
+                }
+            },
+            "SlowWalk": {
+                "DesyncAngle": {
+                    "value": 0.0
+                },
+                "Mode": {
+                    "value": 0
+                }
+            },
+            "Stand": {
+                "DesyncAngle": {
+                    "value": 0.0
+                },
+                "Mode": {
+                    "value": 0
+                }
+            }
+        }
+    },
+    "Helper": {
+        "Play": {
+            "EnableGrenadeHelper": {
+                "value": false
+            },
+            "EnableMovementHelper": {
+                "value": false
+            },
+            "GrenadeSmooth": {
+                "value": 0.0
+            },
+            "MovementSmooth": {
+                "value": 0.0
+            },
+            "PlayGrenadeKey": {
+                "value": false
+            },
+            "PlayMovementKey": {
+                "value": false
+            }
+        },
+        "Recorder": {
+            "EditorMode": {
+                "value": false
+            }
+        }
+    },
+    "Misc": {
+        "General": {
+            "EnhancedScoreboard": {
+                "value": false
+            },
+            "RankRevealer": {
+                "value": false
+            },
+            "Thirdperson": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            }
+        },
+        "Movement": {
+            "Autostrafe": {
+                "value": 0
+            },
+            "Bunnyhop": {
+                "value": false
+            },
+            "BunnyhopDuck": {
+                "value": false
+            },
+            "EdgeJump": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "QuickStop": {
+                "value": false
+            },
+            "RunBoost": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "SlideWalk": {
+                "value": false
+            },
+            "SlowWalk": {
+                "key": 16,
+                "keymode": 2,
+                "value": false
+            },
+            "SlowWalkScale": {
+                "key": 0,
+                "keymode": 0,
+                "value": 8.0
+            }
+        },
+        "Overlay": {
+            "BombInfo": {
+                "values": [
+                    3,
+                    313,
+                    100,
+                    130,
+                    true
+                ]
+            },
+            "BombInfoIcon": {
+                "value": true
+            },
+            "BombInfoPlanted": {
+                "value": true
+            },
+            "Crosshair": {
+                "colors": [
+                    [
+                        false,
+                        195,
+                        18,
+                        116,
+                        255
+                    ],
+                    [
+                        false,
+                        21,
+                        21,
+                        21,
+                        255
+                    ]
+                ],
+                "value": 2
+            },
+            "CrosshairAutowall": {
+                "colors": [
+                    [
+                        false,
+                        0,
+                        128,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        0,
+                        0,
+                        255
+                    ]
+                ],
+                "value": false
+            },
+            "CrosshairShowRecoil": {
+                "value": false
+            },
+            "CrosshairSniperOnly": {
+                "value": false
+            },
+            "DamageIndicator": {
+                "value": false
+            },
+            "HitSound": {
+                "value": 0
+            },
+            "Hitmarker": {
+                "color": [
+                    false,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "value": 1
+            },
+            "Offscreen": {
+                "colors": [
+                    [
+                        false,
+                        195,
+                        18,
+                        116,
+                        255
+                    ],
+                    [
+                        false,
+                        54,
+                        54,
+                        54,
+                        255
+                    ]
+                ],
+                "value": false
+            },
+            "OffscreenSize": {
+                "value": 50.0
+            },
+            "Radar": {
+                "values": [
+                    40,
+                    40,
+                    150,
+                    150,
+                    false
+                ]
+            },
+            "RadarCross": {
+                "value": true
+            },
+            "RadarGrenades": {
+                "value": true
+            },
+            "RadarHealth": {
+                "value": true
+            },
+            "RadarHideBG": {
+                "value": true
+            },
+            "RadarMap": {
+                "value": true
+            },
+            "RadarViewangles": {
+                "value": true
+            },
+            "SpectatorList": {
+                "values": [
+                    1772,
+                    0,
+                    150,
+                    200,
+                    true
+                ]
+            },
+            "SpectatorListAvatar": {
+                "value": true
+            },
+            "SpectatorListHideBG": {
+                "value": true
+            },
+            "VelocityGraph": {
+                "values": [
+                    810,
+                    780,
+                    300,
+                    200,
+                    false
+                ]
+            },
+            "VelocityGraphHideBG": {
+                "value": false
+            }
+        }
+    },
+    "Triggerbot": {
+        "AK-47": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "AUG": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "AWP": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "AimKey": {
+            "key": 16,
+            "keymode": 0
+        },
+        "CZ75-Auto": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Default": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Desert Eagle": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Dual Berettas": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "FAMAS": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Five-SeveN": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "G3SG1": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Galil AR": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Glock-18": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Heavy": {
+            "Aimfov": {
+                "value": 10.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 65.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Key": {
+            "key": 16,
+            "keymode": 0
+        },
+        "M249": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "M4A1-S": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "M4A4": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MAC-10": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MAG-7": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MP5-SD": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MP7": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "MP9": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Mode": {
+            "value": 2
+        },
+        "Negev": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Nova": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "P2000": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "P250": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "P90": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "PP-Bizon": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Pistol": {
+            "Aimfov": {
+                "value": 10.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 64.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "R8 Revolver": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Rifle": {
+            "Aimfov": {
+                "value": 10.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 60.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "SCAR-20": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "SG 553": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "SMG": {
+            "Aimfov": {
+                "value": 10.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 60.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "SSG 08": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Sawed-Off": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Sniper": {
+            "Aimfov": {
+                "value": 10.0
+            },
+            "AutoStop": {
+                "value": true
+            },
+            "BacktrackTime": {
+                "value": 200.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 82.0
+            },
+            "HitboxList": {
+                "values": [
+                    0,
+                    1
+                ]
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Tec-9": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "UMP-45": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "USP-S": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "XM1014": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        },
+        "Zeus": {
+            "Aimfov": {
+                "value": 0.0
+            },
+            "AutoStop": {
+                "value": false
+            },
+            "BacktrackTime": {
+                "value": 0.0
+            },
+            "Bullets": {
+                "value": 0.0
+            },
+            "Delay": {
+                "value": 0.0
+            },
+            "FlashCheck": {
+                "value": false
+            },
+            "HitChance": {
+                "value": 0.0
+            },
+            "HitboxList": {
+                "values": []
+            },
+            "LegitAutowall": {
+                "key": 0,
+                "keymode": 0,
+                "value": false
+            },
+            "MinDamage": {
+                "value": 0.0
+            },
+            "MinVisibleDamage": {
+                "value": 0.0
+            },
+            "SmokeCheck": {
+                "value": false
+            },
+            "Smooth": {
+                "value": 0.0
+            }
+        }
+    },
+    "Visual": {
+        "ESP": {
+            "Box": {
+                "colors": [
+                    [
+                        false,
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        255,
+                        255,
+                        255
+                    ]
+                ],
+                "value": 3
+            },
+            "ColorMode": {
+                "colors": [
+                    [
+                        false,
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        255,
+                        255,
+                        255
+                    ]
+                ],
+                "value": 0
+            },
+            "CustomBoxFilled": {
+                "colors": [
+                    [
+                        false,
+                        5,
+                        5,
+                        5,
+                        50
+                    ],
+                    [
+                        false,
+                        5,
+                        5,
+                        5,
+                        50
+                    ]
+                ],
+                "value": false
+            },
+            "CustomBoxFrameSize": {
+                "value": 0.0
+            },
+            "CustomBoxInline": {
+                "colors": [
+                    [
+                        false,
+                        77,
+                        155,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        67,
+                        233,
+                        255
+                    ]
+                ],
+                "value": false
+            },
+            "CustomBoxInlineSize": {
+                "value": 0.0
+            },
+            "CustomBoxOutline": {
+                "colors": [
+                    [
+                        false,
+                        5,
+                        5,
+                        5,
+                        255
+                    ],
+                    [
+                        false,
+                        5,
+                        5,
+                        5,
+                        255
+                    ]
+                ],
+                "value": false
+            },
+            "CustomBoxOutlineSize": {
+                "value": 0.0
+            },
+            "CustomBoxScale": {
+                "value": 0.0
+            },
+            "Defuse": {
+                "value": true
+            },
+            "Distance": {
+                "custom": [
+                    4,
+                    0
+                ],
+                "value": false
+            },
+            "Draw": {
+                "key": 20,
+                "keymode": 1,
+                "value": 0
+            },
+            "FarESP": {
+                "value": false
+            },
+            "Font": {
+                "value": 4
+            },
+            "Headdot": {
+                "value": true
+            },
+            "HealthBar": {
+                "colors": [
+                    [
+                        false,
+                        0,
+                        255,
+                        0,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        0,
+                        0,
+                        255
+                    ]
+                ],
+                "custom": [
+                    0,
+                    0
+                ],
+                "value": 2
+            },
+            "HealthValue": {
+                "custom": [
+                    0,
+                    0
+                ],
+                "value": false
+            },
+            "HideTeam": {
+                "value": true
+            },
+            "Name": {
+                "custom": [
+                    6,
+                    0
+                ],
+                "value": true
+            },
+            "Rank": {
+                "custom": [
+                    3,
+                    0
+                ],
+                "value": false
+            },
+            "Skeleton": {
+                "value": true
+            },
+            "Traceline": {
+                "value": false
+            },
+            "Visible": {
+                "colors": [
+                    [
+                        false,
+                        0,
+                        255,
+                        0,
+                        255
+                    ],
+                    [
+                        false,
+                        0,
+                        255,
+                        0,
+                        255
+                    ]
+                ],
+                "value": true
+            },
+            "WeapinIcon": {
+                "custom": [
+                    7,
+                    0
+                ],
+                "value": true
+            },
+            "Weapon": {
+                "custom": [
+                    7,
+                    1
+                ],
+                "value": false
+            }
+        },
+        "Glow": {
+            "Player": {
+                "colors": [
+                    [
+                        false,
+                        0,
+                        128,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        0,
+                        0,
+                        255
+                    ]
+                ],
+                "value": false
+            },
+            "PlayerFullbloom": {
+                "value": false
+            },
+            "PlayerHealth": {
+                "value": false
+            },
+            "PlayerType": {
+                "value": 0
+            },
+            "Weapon": {
+                "colors": [
+                    [
+                        false,
+                        0,
+                        128,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        0,
+                        0,
+                        255
+                    ]
+                ],
+                "value": false
+            }
+        },
+        "Models": {
+            "BacktrackChams": {
+                "colors": [
+                    [
+                        false,
+                        0,
+                        128,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        0,
+                        0,
+                        255
+                    ]
+                ],
+                "value": 0
+            },
+            "LocalChamsFake": {
+                "color": [
+                    false,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "value": 0
+            },
+            "LocalChamsReal": {
+                "color": [
+                    false,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "value": 0
+            },
+            "PlayerChams": {
+                "value": false
+            },
+            "PlayerMaterialChams": {
+                "colors": [
+                    [
+                        false,
+                        0,
+                        128,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        0,
+                        0,
+                        255
+                    ]
+                ],
+                "value": 0
+            },
+            "PlayerMaterialChamsZ": {
+                "colors": [
+                    [
+                        false,
+                        0,
+                        128,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        0,
+                        0,
+                        255
+                    ]
+                ],
+                "value": 0
+            }
+        },
+        "Removals": {
+            "NoFlash": {
+                "value": false
+            },
+            "NoPostprocessing": {
+                "value": false
+            },
+            "NoScope": {
+                "color": [
+                    false,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "value": false
+            },
+            "NoSmoke": {
+                "value": false
+            },
+            "NoVisualRecoil": {
+                "value": false
+            },
+            "NoZoom": {
+                "value": false
+            }
+        },
+        "World": {
+            "Bomb": {
+                "values": [
+                    1,
+                    2,
+                    3
+                ]
+            },
+            "BulletTracer": {
+                "colors": [
+                    [
+                        false,
+                        255,
+                        0,
+                        200,
+                        255
+                    ],
+                    [
+                        false,
+                        150,
+                        225,
+                        255,
+                        255
+                    ]
+                ],
+                "values": []
+            },
+            "DroppedWeapon": {
+                "colors": [
+                    [
+                        false,
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        195,
+                        18,
+                        116,
+                        255
+                    ]
+                ],
+                "values": [
+                    2
+                ]
+            },
+            "GrenadePrediction": {
+                "colors": [
+                    [
+                        false,
+                        255,
+                        255,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        195,
+                        18,
+                        116,
+                        255
+                    ]
+                ],
+                "value": false
+            },
+            "GrenadeTimer": {
+                "value": false
+            },
+            "GrenadeTracer": {
+                "colors": [
+                    [
+                        false,
+                        0,
+                        128,
+                        255,
+                        255
+                    ],
+                    [
+                        false,
+                        255,
+                        0,
+                        0,
+                        255
+                    ]
+                ],
+                "values": []
+            },
+            "Nightmode": {
+                "value": 55.0
+            },
+            "SkyChanger": {
+                "value": 0
+            },
+            "SoundVisualise": {
+                "color": [
+                    false,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "value": false
+            },
+            "Steps": {
+                "colors": [
+                    [
+                        false,
+                        50,
+                        205,
+                        50,
+                        255
+                    ],
+                    [
+                        false,
+                        200,
+                        0,
+                        200,
+                        255
+                    ]
+                ],
+                "values": []
+            }
+        }
+    }
+}
